@@ -14,6 +14,6 @@ Cataloging isomers of nanopores (extended vacancy defects) in 2D lattices of TMD
 
 * `analyze_isomers_directed_isomorphism`: This program analyzes all the nanopore isomers generated using the `generate_isomers_SiEtch` code to weed the duplicate isomers out of the list, and output the unique isomers. To do so, the program requires:
 
-  * `add_weighing_nodes_in_between`: This program modifies the antimolecule adjacency matrix to add fictitious nodes to enable proper detection of C-C bonds with various orientations 
+  * `add_weighing_nodes_in_between`: This program modifies the antimolecule adjacency matrix to add fictitious nodes to enable proper detection of Mo-S bonds with various orientations 
 
   * `compare_pores_with_weights`: This program compares two nanopore isomers, after fictitious nodes have been added into their adjacency matrices using `add_weighing_nodes_in_between`, and outputs whether the two nanopores are identical or not. 
