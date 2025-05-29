@@ -1,5 +1,5 @@
 # MoS2Nanopores
-Cataloging isomers of nanopores (extended vacancy defects) in 2D lattices
+Cataloging isomers of nanopores (extended vacancy defects) in 2D lattices of TMDs
 
 > Bhowmik, S.; Govind Rajan, A. Size and Chemical Environment Influence Structural Order in Defective MoS<sub>2</sub> from Irregular to Triangular Nanopores
 
